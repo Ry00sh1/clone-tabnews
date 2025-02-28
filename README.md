@@ -1,2 +1,2 @@
 # clone-tabnews
-Projeto clone do https://www.tabnews.com.br/ para fins didáticos
+Projeto clone do <a href='https://www.tabnews.com.br/'>Tabnews</a> sendo realizado em conjunto com o <a href='https://www.curso.dev'>curso.dev</a>
