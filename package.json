@@ -9,8 +9,13 @@
   "description": "Projeto clone do https://www.tabnews.com.br/ para fins didáticos",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
 }
